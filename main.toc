@@ -1,0 +1,63 @@
+\select@language {english}
+\contentsline {chapter}{Table of Contents}{1}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Thesis outline}{3}{section.1.1}
+\contentsline {chapter}{Literature}{7}{section*.3}
+\contentsline {chapter}{\chapternumberline {2}Magnetic tunnel junctions}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Spin dependent tunneling}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}Tunneling magnetoresistance, origin}{16}{section.2.2}
+\contentsline {subsubsection}{\numberline {2.2.0.1}Simple potential barrier}{16}{subsubsection.2.2.0.1}
+\contentsline {subsubsection}{\numberline {2.2.0.2}Spin dependent tunneling}{17}{subsubsection.2.2.0.2}
+\contentsline {section}{\numberline {2.3}Types of magnetic tunnel junction structures}{17}{section.2.3}
+\contentsline {section}{\numberline {2.4}MTJ properties important for applications}{21}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Free layer properties}{21}{subsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.1.1}Direct ferromagnetic coupling via pinholes}{21}{subsubsection.2.4.1.1}
+\contentsline {subsection}{\numberline {2.4.2}Pinned and reference layer properties}{22}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Exchange bias}{22}{subsubsection.2.4.2.1}
+\contentsline {subsubsection}{\numberline {2.4.2.2}Neel "Orange-peel" coupling}{22}{subsubsection.2.4.2.2}
+\contentsline {subsection}{\numberline {2.4.3}Magnetostatic coupling in nanofabricated MTJs}{23}{subsection.2.4.3}
+\contentsline {chapter}{Literature}{25}{section*.13}
+\contentsline {chapter}{\chapternumberline {3}Interlayer Exchange Coupling and Spin Transfer Torque}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}IEC across metallic spacer layer: RKKY-coupling, Synthetic Antiferromagnets (SAF)}{27}{section.3.1}
+\contentsline {section}{\numberline {3.2}IEC across insulating spacer layer}{29}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Theory}{29}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Review of experiments on IEC}{31}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Spin transfer torque (STT)}{32}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Phenomenological description of STT}{32}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Landau -- Lifshitz -- Gilbert -- Slonczewski (LLGS) equation}{34}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Current-induced magnetization switching (CIMS) using STT effect}{36}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Other current-induced effects in MTJs: Oersted field, heating, back-hopping}{37}{subsection.3.3.4}
+\contentsline {chapter}{Literature}{39}{section*.22}
+\contentsline {chapter}{\chapternumberline {4}Effect of design and annealing on structure and magnetic properties of MTJs}{43}{chapter.4}
+\contentsline {section}{\numberline {4.1}Structural and magnetic properties of sputtered multilayers (INESC-MN)}{43}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Experimental}{44}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Structural study of sputtered MTJs}{44}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Vibrational Sample Magnetometry study of sputtered MTJs}{46}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Optimization of Synthetic Antiferromagnets (SAFs)}{53}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}SAFs prepared by sputtering}{53}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}SAFs prepared by Ion Beam Assisted Deposition (IBAD)}{53}{subsection.4.2.2}
+\contentsline {chapter}{Literature}{57}{section*.36}
+\contentsline {chapter}{\chapternumberline {5}MTJ-SAF for spin transfer torque induced magnetization switching}{59}{chapter.5}
+\contentsline {section}{\numberline {5.1}TMR and STT induced switching in MTJ-SAF nanopillars prepared by IBAD}{59}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Experimental}{59}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}CIMS experiments on conventional MTJ and MTJ-SAF samples}{60}{subsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.2.1}CIMS on MTJ-SAF}{60}{subsubsection.5.1.2.1}
+\contentsline {subsubsection}{\numberline {5.1.2.2}CIMS on conventional MTJs}{61}{subsubsection.5.1.2.2}
+\contentsline {subsubsection}{\numberline {5.1.2.3}Back-hopping in MTJs}{62}{subsubsection.5.1.2.3}
+\contentsline {section}{\numberline {5.2}TMR and CIMS effects in MTJ-SAF nanopillars prepared by sputtering}{63}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}VSM and MOKE characterization and macrospin calculation}{63}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Transport measurements on unpatterned MTJ and MTJ-SAF characterization}{65}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}CIMS experiments on conventional MTJ and MTJ-SAF samples}{66}{subsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.3.1}CIMS on conventional MTJs}{66}{subsubsection.5.2.3.1}
+\contentsline {subsubsection}{\numberline {5.2.3.2}CIMS on MTJ-SAF}{66}{subsubsection.5.2.3.2}
+\contentsline {subsubsection}{\numberline {5.2.3.3}Switching Phase Diagram of MTJ-SAF}{68}{subsubsection.5.2.3.3}
+\contentsline {chapter}{Literature}{71}{section*.51}
+\contentsline {chapter}{\chapternumberline {6}The study of conductance in magnetic tunnel junctions with a thin MgO barrier: the effect of Ar pressure on TMR and RA product}{73}{chapter.6}
+\contentsline {section}{\numberline {6.1}Abstract}{73}{section.6.1}
+\contentsline {section}{\numberline {6.2}Introduction}{73}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Experimental}{75}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Model description}{75}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Results and discussion}{78}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Conclusions}{81}{subsection.6.2.4}
+\contentsline {chapter}{Literature}{83}{section*.60}
+\contentsline {chapter}{\chapternumberline {7}Conclusions}{85}{chapter.7}

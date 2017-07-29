@@ -1,0 +1,51 @@
+\BOOKMARK [0][-]{section*.1}{Table of Contents}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Thesis outline}{chapter.1}% 3
+\BOOKMARK [0][-]{section*.3}{Literature}{}% 4
+\BOOKMARK [0][-]{chapter.2}{Magnetic tunnel junctions}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Spin dependent tunneling}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Tunneling magnetoresistance, origin}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.3}{Types of magnetic tunnel junction structures}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.4}{MTJ properties important for applications}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.4.1}{Free layer properties}{section.2.4}% 10
+\BOOKMARK [2][-]{subsection.2.4.2}{Pinned and reference layer properties}{section.2.4}% 11
+\BOOKMARK [2][-]{subsection.2.4.3}{Magnetostatic coupling in nanofabricated MTJs}{section.2.4}% 12
+\BOOKMARK [0][-]{section*.13}{Literature}{}% 13
+\BOOKMARK [0][-]{chapter.3}{Interlayer Exchange Coupling and Spin Transfer Torque}{}% 14
+\BOOKMARK [1][-]{section.3.1}{IEC across metallic spacer layer: RKKY-coupling, Synthetic Antiferromagnets \(SAF\)}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.2}{IEC across insulating spacer layer}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.2.1}{Theory}{section.3.2}% 17
+\BOOKMARK [2][-]{subsection.3.2.2}{Review of experiments on IEC}{section.3.2}% 18
+\BOOKMARK [1][-]{section.3.3}{Spin transfer torque \(STT\)}{chapter.3}% 19
+\BOOKMARK [2][-]{subsection.3.3.1}{Phenomenological description of STT}{section.3.3}% 20
+\BOOKMARK [2][-]{subsection.3.3.2}{Landau \205 Lifshitz \205 Gilbert \205 Slonczewski \(LLGS\) equation}{section.3.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.3}{Current-induced magnetization switching \(CIMS\) using STT effect}{section.3.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.4}{Other current-induced effects in MTJs: Oersted field, heating, back-hopping}{section.3.3}% 23
+\BOOKMARK [0][-]{section*.22}{Literature}{}% 24
+\BOOKMARK [0][-]{chapter.4}{Effect of design and annealing on structure and magnetic properties of MTJs}{}% 25
+\BOOKMARK [1][-]{section.4.1}{Structural and magnetic properties of sputtered multilayers \(INESC-MN\)}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.1.1}{Experimental}{section.4.1}% 27
+\BOOKMARK [2][-]{subsection.4.1.2}{Structural study of sputtered MTJs}{section.4.1}% 28
+\BOOKMARK [2][-]{subsection.4.1.3}{Vibrational Sample Magnetometry study of sputtered MTJs}{section.4.1}% 29
+\BOOKMARK [1][-]{section.4.2}{Optimization of Synthetic Antiferromagnets \(SAFs\)}{chapter.4}% 30
+\BOOKMARK [2][-]{subsection.4.2.1}{SAFs prepared by sputtering}{section.4.2}% 31
+\BOOKMARK [2][-]{subsection.4.2.2}{SAFs prepared by Ion Beam Assisted Deposition \(IBAD\)}{section.4.2}% 32
+\BOOKMARK [0][-]{section*.36}{Literature}{}% 33
+\BOOKMARK [0][-]{chapter.5}{MTJ-SAF for spin transfer torque induced magnetization switching}{}% 34
+\BOOKMARK [1][-]{section.5.1}{TMR and STT induced switching in MTJ-SAF nanopillars prepared by IBAD}{chapter.5}% 35
+\BOOKMARK [2][-]{subsection.5.1.1}{Experimental}{section.5.1}% 36
+\BOOKMARK [2][-]{subsection.5.1.2}{CIMS experiments on conventional MTJ and MTJ-SAF samples}{section.5.1}% 37
+\BOOKMARK [1][-]{section.5.2}{TMR and CIMS effects in MTJ-SAF nanopillars prepared by sputtering}{chapter.5}% 38
+\BOOKMARK [2][-]{subsection.5.2.1}{VSM and MOKE characterization and macrospin calculation}{section.5.2}% 39
+\BOOKMARK [2][-]{subsection.5.2.2}{Transport measurements on unpatterned MTJ and MTJ-SAF characterization}{section.5.2}% 40
+\BOOKMARK [2][-]{subsection.5.2.3}{CIMS experiments on conventional MTJ and MTJ-SAF samples}{section.5.2}% 41
+\BOOKMARK [0][-]{section*.51}{Literature}{}% 42
+\BOOKMARK [0][-]{chapter.6}{The study of conductance in magnetic tunnel junctions with a thin MgO barrier: the effect of Ar pressure on TMR and RA product}{}% 43
+\BOOKMARK [1][-]{section.6.1}{Abstract}{chapter.6}% 44
+\BOOKMARK [1][-]{section.6.2}{Introduction}{chapter.6}% 45
+\BOOKMARK [2][-]{subsection.6.2.1}{Experimental}{section.6.2}% 46
+\BOOKMARK [2][-]{subsection.6.2.2}{Model description}{section.6.2}% 47
+\BOOKMARK [2][-]{subsection.6.2.3}{Results and discussion}{section.6.2}% 48
+\BOOKMARK [2][-]{subsection.6.2.4}{Conclusions}{section.6.2}% 49
+\BOOKMARK [0][-]{section*.60}{Literature}{}% 50
+\BOOKMARK [0][-]{chapter.7}{Conclusions}{}% 51
